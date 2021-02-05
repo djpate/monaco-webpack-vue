@@ -82,7 +82,7 @@ export default class App extends Vue {
         folding: true,
       },
     );
-    GraphQLAPI.setSchemaUri('http://training.knowbe4.com/graphql');
+    GraphQLAPI.setSchemaUri('https://graphql.bitquery.io/');
   }
 }
 </script>
